@@ -2,3 +2,9 @@ marquee {
     position:absolute;
     top:0px;
 }
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
