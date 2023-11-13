@@ -1,1 +1,8 @@
-
+table {
+border: 15px, red, solid;
+color: blue;
+font-size: 12px;
+}
+td{
+border: 10px, black, solid;
+}
